@@ -2,6 +2,7 @@ sublime-plugins-settings
 ========================
 
 ###Installed plugins
+  * Alignment
   * BracketHighlighter
   * DetectSyntax
   * Emmet
